@@ -6,3 +6,5 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 install-pyenv-win.ps1
+.vscode/
+model_weights.pth
